@@ -5,7 +5,7 @@ Vitor Ruschoni](https://github.com/ruschoni02).
 
 Um jogo com uma estrutura e estilos simples, mas com grandes conceitos de desenvolvimento web aplicados com HTML, CSS e JavaScript.
 
-Fiz algumas alteraçõs do projeto proposto inicialmente, e logo mais pretendo fazer grandes implementações.
+Fiz algumas alterações do projeto proposto inicialmente, e logo mais pretendo fazer grandes implementações.
 
 ## Veja como está funcionando o jogo até o momento.
 
